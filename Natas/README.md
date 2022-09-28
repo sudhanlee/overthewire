@@ -72,4 +72,4 @@ To seperate the correct password from the content, we use **re** module **findal
 
 The password of natas1 is `gtVrDuiDfck831PqWsLEZy5gyDz1clto`.
 
-**Challenge natas 0-1 Solved **
+**Challenge natas 0-1 Solved**
