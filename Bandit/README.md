@@ -22,7 +22,7 @@
 ### Level 1 - 2
 
 **Username** : bandit1  
-**Password** : `boJ9jbbUNNfktd78OOpsqOltutMc3MY1` 
+**Password** : `NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL` 
 
 `cat ./-`
 
@@ -31,7 +31,7 @@
 ### Level 2 - 3
 
 **Username** : bandit2  
-**Password** : `CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9`
+**Password** : `rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi`
 
 `cat spaces\ in\ this\ filename`
 
@@ -40,7 +40,7 @@
 ### Level 3 - 4
 
 **Username** : bandit3  
-**Password** : `UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK`
+**Password** : `aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG`
 
 `cat inhere/.hidden`
 
@@ -49,7 +49,7 @@
 ### Level 4 - 5
 
 **Username** : bandit4  
-**Password** : `pIwrPrtPN36QITSp3EQaw936yaFoFgAB`
+**Password** : `2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe`
 
 `file inhere/-*` **to find the text file**  
 `cat inhere/-file07` 
@@ -59,7 +59,7 @@
 ### Level 5 - 6
 
 **Username** : bandit5  
-**Password** : `koReBOKuIDDepwhWk7jZC0RTdopnAYKh`
+**Password** : `lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR`
 
 `find ./* ! -executable -size 1033c -readable` **to find the correct file**  
 `cat inhere/maybehere07/.file2`
@@ -69,7 +69,7 @@
 ### Level 6 - 7
 
 **Username** : bandit6  
-**Password** : `DXjZPULLxYr17uwoI01bNLQbtFemEgo7`
+**Password** : `P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU`
 
 `find / -size 33c -user bandit7 -group bandit6 2>>/dev/null` **to find the file**  
 `cat /var/lib/dpkg/info/bandit7.**Password**`
@@ -79,7 +79,7 @@
 ### Level 7 - 8
 
 **Username** : bandit7  
-**Password** : `HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs`
+**Password** : `z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S`
 
 `cat data.txt | grep millionth`
 
@@ -88,7 +88,7 @@
 ### Level 8 - 9
 
 **Username** : bandit8  
-**Password** : `cvX2JJa4CFALtqS87jk27qwqGhBM9plV`
+**Password** : `TESKZC0XvTetK0S9xNwm25STk5iWrBvP`
 
 `sort data.txt | uniq -u`
 
@@ -97,7 +97,7 @@
 ### Level 9 - 10
 
 **Username** : bandit9  
-**Password** : `UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR`
+**Password** : `EN632PlfYiZbn3PhVK3XOGSlNInNE00t`
 
 `strings data.txt | grep "&===="`
 
@@ -106,7 +106,7 @@
 ### Level 10 - 11
 
 **Username** : bandit10  
-**Password**: `truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`
+**Password**: `G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s`
 
 `cat data.txt | base64 -d`
 
@@ -115,7 +115,7 @@
 ### Level 11 - 12
 
 **Username** : bandit11  
-**Password** : `IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`
+**Password** : `6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM`
 
 `cat data.txt | tr "A-Za-z" "N-ZA-Mn-za-m"`
 
@@ -124,7 +124,7 @@
 ### Level 12 - 13
 
 **Username** : bandit12  
-**Password** : `5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu`
+**Password** : `JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv`
 
 Create a folder in /tmp and copy data.txt file there  
 `cat data.txt | xxd -r > data`  
@@ -135,14 +135,14 @@ Create a folder in /tmp and copy data.txt file there
 `bzip2 -d <filename>`  
 `tar -xvf <filename>`  
 Finally,  
-`cat data8.bin`  
+`cat data8`  
 
 <------------------------------------------------------------------------------------------------------------------->
 
 ### Level 13 - 14
 
 **Username** : bandit13  
-**Password** : `8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL`
+**Password** : `wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw`
 
 Create a folder in /tmp and copy sshkey.private file there  
 
@@ -154,7 +154,7 @@ Create a folder in /tmp and copy sshkey.private file there
 ### Level 14 - 15
 
 **Username** : bandit14  
-**Password** : `4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e`
+**Password** : `fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq`
 
 `cat /etc/bandit_pass/bandit14 | nc localhost 30000`
 
@@ -163,7 +163,7 @@ Create a folder in /tmp and copy sshkey.private file there
 ### Level 15 - 16
 
 **Username** : bandit15  
-**Password** : `BfMYroe26WYalil77FoDi9qh59eK5xNr`
+**Password** : `jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt`
 
 
 `openssl s_client -host localhost -port 30001`  
@@ -174,7 +174,7 @@ Paste **Password** of **bandit15**.
 ### Level 16 - 17
 
 **Username** : bandit16  
-**Password** : `cluFn7wTiGryunymYOu4RcffSxQluehd`
+**Password** : `JQttfApK4SeyHwDlI9SXGR50qclOAil1`
 
 `nmap localhost -p31000-32000`  
 This is the few open ports. By bruteforcing you'll get the correct port which is **31790**.  
@@ -185,7 +185,7 @@ The port gives you the ssh key for the next level. Follow the same steps of **Le
 ### Level 17 - 18
 
 **Username** : bandit17  
-**Password** : `xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn`
+**Password** : `VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e`
 
 `diff *`
 
@@ -194,7 +194,7 @@ The port gives you the ssh key for the next level. Follow the same steps of **Le
 ### Level 18 - 19
 
 **Username** : bandit18  
-**Password** : `kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd`
+**Password** : `hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg`
 
 `ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"`
 
@@ -203,7 +203,7 @@ The port gives you the ssh key for the next level. Follow the same steps of **Le
 ### Level 19 - 20
 
 **Username** : bandit19  
-**Password** : `IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x`
+**Password** : `awhqfNnAbc1naukrpqDYcF95h7HoMTrC`
 
 `./bandit20-do cat /etc/bandit_pass/bandit20`
 
@@ -212,7 +212,7 @@ The port gives you the ssh key for the next level. Follow the same steps of **Le
 ### Level 20 - 21
 
 **Username** : bandit20  
-**Password** : `GbKksEFF4yrVs6il55v6gwY5aVje5f0j`
+**Password** : `VxCazJaVykI6W36BkBU0mJTCM8rR95XT`
 
 Open 2 ssh terminals of user bandit20  
 In one termial  
@@ -226,7 +226,7 @@ Now paste the correct **Password** in **nc** terminal
 ### Level 21 - 22
 
 **Username** : bandit21  
-**Password** : `gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr`
+**Password** : `NvEJF7oVjkddltPSrdKEFOllh9V1IBcq`
 
 `cd /etc/cron.d/`  
 There is a file `cronjob_bandit22`  
@@ -241,7 +241,7 @@ The **Password** for bandit22 is stored from a tmp file `/tmp/t7O6lds9S0RqQh9aMc
 ### Level 22 - 23
 
 **Username** : bandit22  
-**Password** : `Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI`
+**Password** : `WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff`
 
 `cd /etc/cron.d/`  
 There is a file `cronjob_bandit23`  
@@ -262,7 +262,7 @@ Will give us `8ca319486bfbbc3663ea0fbe81326349`
 ### Level 23 - 24
 
 **Username** : bandit23  
-**Password** : `jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n`
+**Password** : `QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G`
 
 In `/usr/bin/cronjob_bandit24` there will be script running.  
 To get the write a script in `/var/spool/bandit24/`  
@@ -282,7 +282,7 @@ Now create `/tmp/sudhanlee/pass.txt` with full permission
 ### Level 24 - 25
 
 **Username** : bandit24  
-**Password** : `UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ`
+**Password** : `VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar`
 
 create a script in `tmp` directory and save the pin combination and pass it as input to `nc`.  
 ```bash
@@ -290,7 +290,7 @@ create a script in `tmp` directory and save the pin combination and pass it as i
 
 for i in {0000..9999}
 do
-	echo "uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG $i"
+	echo "VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i"
 done
 ```
 
@@ -301,7 +301,7 @@ done
 ### Level 25 - 26
 
 **Username** : bandit25  
-**Password** : `uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG`
+**Password** : `p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d`
 
 Reduce the screen size very small until you see `(more)`.  
 `v`  
@@ -312,7 +312,7 @@ Reduce the screen size very small until you see `(more)`.
 ### Level 26 - 27
 
 **Username** : bandit26  
-**Password** : `5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z`
+**Password** : `c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1`
 
 Create a shell in the `vi` editor of bandit26 by,  
 `:set shell=/bin/bash`  
@@ -324,7 +324,7 @@ After getting shell follow **Level 19 - 20**
 ### Level 27 - 28
 
 **Username** : bandit27  
-**Password** : `3ba3118a22e93127a4ed485be72ef5ea`
+**Password** : `YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS`
 
 `git clone "ssh://bandit27-git@localhost/home/bandit27-git/repo"` in `tmp`  
 `cat repo/README`
