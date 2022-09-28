@@ -6,7 +6,7 @@
 **Username** : bandit0  
 **Password** : `bandit0`
 
-`ssh bandit0@bandi.labs.overthewire.org`
+`ssh bandit0@bandit.labs.overthewire.org`
 
 <------------------------------------------------------------------------------------------------------------------->
 
